@@ -19,10 +19,7 @@ organizations:
   - name: CIRED
     url: http://www.centre-cired.fr/
 education:
-  courses:
-    - course: IPCC's Scenarios
-      institution: Master TSE - UPEC
-      year: 2021
+  courses: []
 superuser: true
 highlight_name: true
 title: Samuel Juhel
