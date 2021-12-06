@@ -11,19 +11,6 @@ design:
   columns: '1'
 ---
 
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<title>Cours Master TSE : Changement climatique</title>
-<meta name="author" content="Samuel Juhel"/>
-<style type="text/css">
-.underline { text-decoration: underline; }
-</style>
-<link rel="stylesheet" href="file:///home/sjuhel/Documents/Présentations/reveal.js/dist/reveal.css"/>
-
-<link rel="stylesheet" href="../custom-css-themes/cired.css" id="theme"/>
-</head>
-
 <iframe src="{{.Get 0}}" width="1000" height="600" frameborder="0" allowfullscreen="allowfullscreen">
 <body>
 <div class="reveal">
