@@ -6,4 +6,4 @@ weight: 40
 math: false
 ---
 
-<a href="http://sjuhel.org/courses/ipcc/test/">Slides are here !</a>
+<a href="http://sjuhel.org/courses/ipcc/test_prez.html">Slides are here !</a>
