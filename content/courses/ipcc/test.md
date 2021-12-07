@@ -6,5 +6,4 @@ weight: 40
 math: false
 ---
 
-<iframe src="../test_prez.html" width="100%" height="650px" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
-
+<a href="../test_prez.html">Slides are here</a>
