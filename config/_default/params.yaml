@@ -74,9 +74,9 @@ edit_page:
   content_dir: ''
   repo_branch: main
   editable:
-    page: true
+    page: false
     post: false
-    book: true
+    book: false
 show_related:
   book: true
   page: false

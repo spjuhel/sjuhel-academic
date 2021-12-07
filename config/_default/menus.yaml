@@ -22,8 +22,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: 'Teaching'
-    url: 'teaching/'
+  - name: 'Course'
+    url: 'course/'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
