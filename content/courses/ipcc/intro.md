@@ -1,11 +1,11 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: Introduction
+date: '2021-17-12'
 type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+Introduction to IPCC's Scenarios
 
 <!--more-->
 
@@ -13,7 +13,6 @@ Build a foundation in Python.
 
 ## Learn
 
-{{< youtube rfscVS0vtbw >}}
 
 ## Quiz
 

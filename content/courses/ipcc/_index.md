@@ -1,8 +1,8 @@
 ---
-title: IPCC's Scenarios
+title: Learn IPCC scenarios
 linkTitle: IPCC's Scenarios
 summary: Accessible presentation of how and why the IPCC builds scenarios, what they are and what they tell.
-date: '2021-12-17'
+date: '2021-01-24'
 type: book
 ---
 
@@ -38,4 +38,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="ipcc" >}}
+{{< cta cta_text="Begin the course" cta_link="intro" >}}
