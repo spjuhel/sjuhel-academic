@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: IPCC's Scenarios
+linkTitle: IPCC's Scenarios
+summary: Accessible presentation of how and why the IPCC builds scenarios, what they are and what they tell.
+date: '2021-12-17'
 type: book
 ---
 
