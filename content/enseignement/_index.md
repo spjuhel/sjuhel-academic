@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Enseignement
 type: page
 
 view: 2
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+Mes différents cours :
