@@ -25,7 +25,7 @@ Les objectifs de ce cours sont d'une part d'expliquer dans les grandes lignes po
 
 {{< list_children >}}
 
-<a href="../test_prez.html">Les slides sont ici</a>
+<a href="../cours_master_tse/main.html">Les slides sont ici</a>
 
 ## FAQs
 
