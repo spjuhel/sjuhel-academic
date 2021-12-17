@@ -26,7 +26,7 @@ Les objectifs de ce cours sont d'une part d'expliquer dans les grandes lignes po
 
 {{< list_children >}}
 
-<a href="../cours_master_tse/Cours-Master-TSE.pdf">Les slides sont ici</a>
+{{% staticref "uploads/cours-master-tse.pdf" "newtab" %}}Les slides sont ici{{% /staticref %}}
 
 ## FAQs
 
