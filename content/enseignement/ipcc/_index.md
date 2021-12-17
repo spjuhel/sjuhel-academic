@@ -2,7 +2,7 @@
 title: Découvrir les Scénario du GIEC
 linkTitle: Scénarios & Changement climatique
 summary: Une présentation se voulant accessible du processus de scénarisation utilisé par le GIEC.
-date: '2021-01-24'
+date: '2021-12-15'
 type: book
 ---
 
@@ -16,6 +16,7 @@ type: book
 - Quelles sont les éléments fondamentaux des scénarios du GIEC ?
 - Regard sur le processus de conception de scénario.
 - (Rapide) État des lieux des impacts possibles du changement climatiques
+- Lecture de figures du 6ème rapport du groupe 1 du GIEC.
 
 ## Descriptif du cours
 
@@ -25,7 +26,7 @@ Les objectifs de ce cours sont d'une part d'expliquer dans les grandes lignes po
 
 {{< list_children >}}
 
-<a href="../cours_master_tse/main.html">Les slides sont ici</a>
+<a href="../cours_master_tse/Cours-Master-TSE.pdf">Les slides sont ici</a>
 
 ## FAQs
 
