@@ -1,5 +1,5 @@
 ---
-title: Découvrir les Scénario du GIEC
+title: Découvrir les Scénarios du GIEC
 linkTitle: Scénarios & Changement climatique
 summary: Une présentation se voulant accessible du processus de scénarisation utilisé par le GIEC.
 date: '2021-12-15'
@@ -26,7 +26,18 @@ Les objectifs de ce cours sont d'une part d'expliquer dans les grandes lignes po
 
 {{< list_children >}}
 
-{{% staticref "uploads/cours-master-tse.pdf" "newtab" %}}Les slides sont ici{{% /staticref %}}
+Les slides sont disponible ici : {{% staticref "uploads/cours-master-tse.pdf" "newtab" %}}ici{{% /staticref %}}
+
+Un enregistrement vidéo du cours donné le 21/12/2021 : 
+
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="https://acloud2.zaclys.com/index.php/s/BCszB343Y2c8arC/download" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+{{< /rawhtml >}}
 
 ## FAQs
 
