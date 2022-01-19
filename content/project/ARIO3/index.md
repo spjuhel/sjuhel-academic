@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: ARIO3
+summary: ARIO³, is an object-oriented python implementation project of the Adaptative Regional Input Output (ARIO) model [Hallegatte 2013].
 tags:
 - MRIO Model
 date: "2021-01-02"
