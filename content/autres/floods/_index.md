@@ -12,7 +12,7 @@ type: book
 
 {{< list_children >}}
 
-Direct impact from flood in the future : {{% staticref "uploads/floods.html" "newtab" %}}ici{{% /staticref %}} 
+Direct impact from flood in the future : {{% staticref "uploads/build/floods.html" "newtab" %}}ici{{% /staticref %}} 
 
 Source :[Global projections of river flood risk in a warmer world](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000485)
 
