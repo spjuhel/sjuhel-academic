@@ -6,7 +6,7 @@ weight: 20
 tags: ["scenario", "climate change", "IPCC", "GIEC", "Changement climatique"]
 ---
 
-Introduction au scénario du GIEC
+Introduction aux scénarios du GIEC
 
 <!--more-->
 

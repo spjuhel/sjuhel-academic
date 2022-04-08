@@ -26,7 +26,7 @@ Les objectifs de ce cours sont d'une part d'expliquer dans les grandes lignes po
 
 {{< list_children >}}
 
-Les slides sont disponible ici : {{% staticref "uploads/cours-master-tse.pdf" "newtab" %}}ici{{% /staticref %}}
+Les slides sont disponibles ici : {{% staticref "uploads/cours-master-tse.pdf" "newtab" %}}ici{{% /staticref %}}
 
 Un enregistrement vidéo du cours donné le 21/12/2021 : 
 
