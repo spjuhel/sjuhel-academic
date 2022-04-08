@@ -1,5 +1,5 @@
 ---
-title: Changement climatique : impacts & adaptation
+title: "Changement climatique : impacts et adaptation"
 linkTitle: Changement climatique
 summary: Une présentation, se voulant accessible, des impacts du changement climatiques et du processus d'adaptation.
 date: '2022-04-07'
@@ -24,7 +24,7 @@ Les objectifs de ce cours sont d'introduire les connaissances essentielles à av
 
 {{< list_children >}}
 
-Les slides sont disponible ici : {{% staticref "uploads/cours-impacts-AHI.pdf" "newtab" %}}ici{{% /staticref %}}
+Les slides sont disponible {{% staticref "uploads/cours-impacts-AHI.pdf" "newtab" %}}ici{{% /staticref %}} !
 
 ## FAQs
 

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro
 date: '2021-17-12'
 type: book
 weight: 20
