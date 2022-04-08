@@ -6,7 +6,7 @@ date: '2022-04-07'
 type: book
 ---
 
-{{< figure width="400px" src="featured.jpg" caption="Time to Choose by Alisa Singer – www.environmentalgraphiti.org – © 2018 Intergovernmental Panel on Climate Change, all rights reserved">}}
+{{< figure width="600px" src="featured.jpg" caption="Changing by Alisa Singer – www.environmentalgraphiti.org – © 2021 Intergovernmental Panel on Climate Change, all rights reserved">}}
 
 {{< toc hide_on="xl" >}}
 
